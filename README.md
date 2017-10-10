@@ -1,0 +1,1 @@
+# HibernateSavingCollectionExample2
